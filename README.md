@@ -1,5 +1,6 @@
 #### Protobuf Editor
-Automatically exported from http://code.google.com/p/protobufeditor
+Imported from http://code.google.com/p/protobufeditor
+
 
 #### TODO
 
