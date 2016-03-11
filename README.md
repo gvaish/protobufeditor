@@ -4,16 +4,17 @@ Imported from http://code.google.com/p/protobufeditor
 
 #### TODO
 
-* Rewrite Visualizer
+* Rewrite Standalone Visualizer
 * Eat, Sleep
-* Rewrite Editor
+* Rewrite Standalone Editor
 * Eat, Sleep
 * Accept different data formats (raw, comma separated integer / hex byte-values from PostMan etc)
 * Eat, Sleep
+
+#### Wishlist
+
+* More Sleep
 * Unit Tests
-* Eat, Sleep
 * Functional Tests
-* Eat, Sleep
 * Create Plug-ins (Xcode, Android Studio, Chrome, Firefox etc)
-* Eat, Sleep
 
